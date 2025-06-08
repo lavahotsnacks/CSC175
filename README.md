@@ -1,4 +1,5 @@
-# CSC175
+# CSC175 (XxYy)
+Parallel and distributed Computing
 ## Main interest of this folder are the three files:
 - `mergesort_parallel_mpi_np.py`
 - `mergesort_parallel_pool_np.py`
