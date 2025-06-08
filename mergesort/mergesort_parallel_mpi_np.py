@@ -5,10 +5,6 @@ Topics in Parallel and Distributed Computing:
 Introducing Concurrency in Undergraduate Courses
 (Edited by Prasad, Gupta, Rosenberg, Sussman, Weems)
 Page 56
-
-Figure 3.27 
-Parallel mergesort using Pool/map.
-The code relies on sequential mergesort from Figure 3.17.
 '''
 
 from mpi4py import MPI
