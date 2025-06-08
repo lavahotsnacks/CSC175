@@ -1,0 +1,82 @@
+Worker Nodes and Slots:
+server01 slots=1
+abdulmanan slots=1
+bucay slots=1
+server02 slots=1
+badron slots=1
+mangorangca slots=1
+Run #1
+N = 1
+Sequential mergesort: 2.6226043701171875e-06 sec
+Parallel mergesort: 2.784153938293457 sec
+N = 10
+Sequential mergesort: 8.869171142578125e-05 sec
+Parallel mergesort: 0.001573324203491211 sec
+N = 100
+Sequential mergesort: 0.0005698204040527344 sec
+Parallel mergesort: 0.19704508781433105 sec
+N = 1000
+Sequential mergesort: 0.005578517913818359 sec
+Parallel mergesort: 0.0022737979888916016 sec
+N = 10000
+Sequential mergesort: 0.05564403533935547 sec
+Parallel mergesort: 0.008503437042236328 sec
+N = 100000
+Sequential mergesort: 0.5534343719482422 sec
+Parallel mergesort: 1.0118000507354736 sec
+N = 1000000
+Sequential mergesort: 5.537100553512573 sec
+Parallel mergesort: 1.9873926639556885 sec
+N = 10000000
+Sequential mergesort: 47.377768754959106 sec
+Parallel mergesort: 13.728467464447021 sec
+Run #2 
+N = 1
+Sequential mergesort: 1.9073486328125e-06 sec
+Parallel mergesort: 0.29010534286499023 sec
+N = 10
+Sequential mergesort: 8.702278137207031e-05 sec
+Parallel mergesort: 0.001190185546875 sec
+N = 100
+Sequential mergesort: 0.00033092498779296875 sec
+Parallel mergesort: 0.0012516975402832031 sec
+N = 1000
+Sequential mergesort: 0.003081083297729492 sec
+Parallel mergesort: 0.0017085075378417969 sec
+N = 10000
+Sequential mergesort: 0.03977465629577637 sec
+Parallel mergesort: 0.013034582138061523 sec
+N = 100000
+Sequential mergesort: 0.3617844581604004 sec
+Parallel mergesort: 0.20207500457763672 sec
+N = 1000000
+Sequential mergesort: 4.1702258586883545 sec
+Parallel mergesort: 1.6558928489685059 sec
+N = 10000000
+Sequential mergesort: 46.55865716934204 sec
+Parallel mergesort: 22.383394956588745 sec
+Run #3 
+N = 1
+Sequential mergesort: 2.6226043701171875e-06 sec
+Parallel mergesort: 0.05531740188598633 sec
+N = 10
+Sequential mergesort: 9.1552734375e-05 sec
+Parallel mergesort: 0.0010938644409179688 sec
+N = 100
+Sequential mergesort: 0.0005729198455810547 sec
+Parallel mergesort: 0.005447864532470703 sec
+N = 1000
+Sequential mergesort: 0.0055389404296875 sec
+Parallel mergesort: 0.003420114517211914 sec
+N = 10000
+Sequential mergesort: 0.05538129806518555 sec
+Parallel mergesort: 0.010150432586669922 sec
+N = 100000
+Sequential mergesort: 0.555851936340332 sec
+Parallel mergesort: 0.15044069290161133 sec
+N = 1000000
+Sequential mergesort: 4.258511543273926 sec
+Parallel mergesort: 1.7972197532653809 sec
+N = 10000000
+Sequential mergesort: 47.50617003440857 sec
+Parallel mergesort: 20.4009268283844 sec
